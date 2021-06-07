@@ -36,12 +36,12 @@ Step 6:
 * 02-baseline-classification.ipynb
 
 Results:
-              | Validation set |            |            |
-|             | ------------   | ---------- | ---------- |
-|             |    title       |  abstract  | title-abstract
-| ----------- | -----------    | ---------- | ---------- |
-| accuracy    | 0.982          |            |            |
-| f1score     | Text           |            |            |
+             
+             
+|             |   title       |  abstract  | title-abstract |
+| ----------- | -----------   | ---------- | -------------- |
+| accuracy    |    0.982      |   0.979    |     0.984      |
+| f1score     |    0.96       |   0.97     |     0.97       |
 
 
 
