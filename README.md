@@ -41,15 +41,15 @@ This project is about MIND dataset. MIcrosoft News Dataset (MIND) is a large-sca
              
 |             |   title     |  abstract  | title-abstract |
 | ----------- | ----------- | ---------- | -------------- |
-| accuracy    |    0.982    |   0.979    |     0.984      |
-| f1score     |    0.96     |   0.97     |     0.97       |
+| accuracy    |    0.982    |   0.979    |       0.984    |
+| f1score     |    0.96     |   0.97     |       0.97     |
 
  Test Set Results:
              
 |             |   title     |  abstract  | title-abstract |
 | ----------- | ----------- | ---------- | -------------- |
-| accuracy    |    0.905    |   0.899    |     0.907      |
-| f1score     |    0.88     |   0.84     |     0.88       |
+| accuracy    |    0.905    |   0.899    |       0.907    |
+| f1score     |    0.88     |   0.84     |       0.88     |
 
 
 
