@@ -65,21 +65,21 @@ This project is about MIND dataset. MIcrosoft News Dataset (MIND) is a large-sca
              
 |                              |   title     |  abstract  | title-abstract |
 | ---------------------------- | ----------- | ---------- | -------------- |
-| adjusted_rand_score          | -0.029107   | -0.03777   |   -0.0149      |
-| normalized_mutual_info_score |  0.098005   |  0.166     |    0.203       |
-| completeness_score           |  0.10593    |  0.1794    |    0.2123      |
-| homogeneity_score            |  0.09117    |  0.15447   |    0.1956      |
-| v_measure_score              |  0.09800    |  0.166     |    0.2036      |
+| adjusted_rand_score          | -0.0291     | -0.0377    |   -0.0149      |
+| normalized_mutual_info_score |  0.098      |  0.166     |    0.203       |
+| completeness_score           |  0.1059     |  0.1794    |    0.2123      |
+| homogeneity_score            |  0.0911     |  0.1544    |    0.1956      |
+| v_measure_score              |  0.098      |  0.166     |    0.2036      |
 
  Test Set Results:
              
 |                              |   title     |  abstract  | title-abstract |
 | ---------------------------- | ----------- | ---------- | -------------- |
-| adjusted_rand_score          | -0.027581   | -0.03039   |   -0.004       |
-| normalized_mutual_info_score |  0.096365   |  0.16741   |    0.2054      |
+| adjusted_rand_score          | -0.02758    | -0.0303    |   -0.004       |
+| normalized_mutual_info_score |  0.0963     |  0.1674    |    0.2054      |
 | completeness_score           |  0.10235    |  0.1772    |    0.209       |
-| homogeneity_score            |  0.09103    |  0.1586    |    0.201       |
-| v_measure_score              |  0.09636    |  0.16741   |    0.205       |
+| homogeneity_score            |  0.091      |  0.1586    |    0.201       |
+| v_measure_score              |  0.096      |  0.167     |    0.205       |
 
 
 ### Step 8: 
