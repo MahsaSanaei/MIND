@@ -37,30 +37,59 @@ Step 6:
 
 Results:
 
-
+|             | Validation set |  Test set  |
+| ----------- | -----------    | ---------- |
+| accuracy    | Title          |            |
+| f1score.    | Text           |            |
+
+
+
 Validation set
-
-Test set
-Title columns
-Abstract columns
-Title-abstract column
-Title columns
-Abstract columns
-Abstract columns
-accuracy
-0.982
-0.979
-0.984
-0.905
-0.899
-0.907
-f1 score
-0.96
-0.97
-0.97
-0.88
-0.84
-0.88
+
+
+Test set
+
+
+Title columns
+
+Abstract columns
+
+Title-abstract column
+
+Title columns
+
+Abstract columns
+
+Abstract columns
+
+accuracy
+
+0.982
+
+0.979
+
+0.984
+
+0.905
+
+0.899
+
+0.907
+
+f1 score
+
+0.96
+
+0.97
+
+0.97
+
+0.88
+
+0.84
+
+0.88
+
 
 Step 7:
  
